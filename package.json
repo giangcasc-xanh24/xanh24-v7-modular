@@ -1,0 +1,5 @@
+{
+  "name": "xanh24-v7-modular",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"]
+}
