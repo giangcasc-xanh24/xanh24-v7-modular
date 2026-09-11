@@ -1,8 +1,0 @@
-{
-  "name": "xanh24-v7-modular-fixed",
-  "private": true,
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ]
-}
